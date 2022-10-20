@@ -5,4 +5,7 @@ nome = "Matheus"
 idade = 18
 
 
-print(nome, idade)
+#print(nome, idade)
+#print("Minha idade é " +str (idade))
+#print (f"Minha idade é {idade}\n")
+print ("Minha idade é {}".format(idade))
