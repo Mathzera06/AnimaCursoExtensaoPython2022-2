@@ -1,12 +1,10 @@
-# meu primeiro projeto Python
-print("Hello World")
+#comando input(): quero permitir que o usuário digite algo...
+nome = input("Digite seu nome:")
+print(nome)
 
-nome = "Matheus"
-idade = 18
+idade = int(input("Digite sua idade:"))
+print(idade)
 
+dobro = (idade * 2)
+print("o dobro da idade informada é  {}".format(dobro))
 
-#print(nome, idade)
-#print("Minha idade é " +str (idade))
-#print (f"Minha idade é {idade}\n")
-#print ("Minha idade é {}".format(idade))
-print("Meu nome é {} e tenho {} anos".format(nome,idade))
