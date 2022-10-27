@@ -12,6 +12,6 @@ idade = 18
 print("Meu nome é {} e tenho {} anos".format(nome,idade))
 
 
-#aula_26_10_2022
+
 
 
