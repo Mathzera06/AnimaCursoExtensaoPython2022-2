@@ -1,8 +1,16 @@
-nome = input("Informe seu nome: ")
-nota = float(input("Digite sua nota: "))
-if nota == 10:
-  print(f"{nome}, voce é o bichão mesmo")
-elif (nota >= 6 and nota <= 9.99):
-  print(f"{nome}, voce é mediano")
-else:
-  print("Não tirou dez")
+print("1")
+print("2")
+print("3")
+print("4")
+print("5")
+print("5")
+print("6")
+print("7")
+print("8")
+print("9")
+print("10")
+print("Aqui é o jeito certo...")
+numero = 1 
+print(numero)
+numero = numero + 1
+print(numero)
